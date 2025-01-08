@@ -4,6 +4,9 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from "./components/header/header";
 
 
+
+
+
 function App() {
   return (
     <>
@@ -11,8 +14,14 @@ function App() {
       <Router>
           <Routes>
             <Route path="/" element={<Home />} />
+            
+            
+            
           </Routes>
       </Router>
+      
+      
+      
     </>
   );
 }
