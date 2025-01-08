@@ -4,6 +4,7 @@ import "./home.css";
 import Mainslider from "../../components/Mainslider/Mainslider";
 import Dasbord from "../../components/Dasbord/Dasbord";
 import Ourservices from "../Ourservices/Ourservices";
+import Products from "../Products/Products";
 
 
 const Home = () => {
@@ -12,8 +13,8 @@ const Home = () => {
     <><div className="home">
       <Mainslider />
       <Dasbord />
-
       <Ourservices />
+      <Products />
 
       </div>
     </>

@@ -19,7 +19,7 @@ function Dasbord() {
                 <div className='row'>
                     <div className="col-md-6">
                         <div className="bg">
-                            <div className="slide2 ">
+                            <div className="slide2">
                                 <Carousel fade controls={false}>
                                     <Carousel.Item>
                                         <img src={img1} />
