@@ -6,3 +6,11 @@
 .innerHead{
     padding-top: 0rem
 }
+.hoverr {
+    color: #fff;
+    
+}
+.hoverr:hover{
+    color: #c36;
+}
+
