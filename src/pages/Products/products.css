@@ -52,4 +52,13 @@ border-radius: 0%;
         text-align: center;
         max-width: 100%;
     }
+    .products-text span {
+        font-size: 15px;
+    }
+    .products-text h1 {
+        font-size: 35px;
+    }
+    .products-text p {
+        font-size: 20px;
+    }
   }

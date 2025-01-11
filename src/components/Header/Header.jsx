@@ -14,13 +14,13 @@ const Header = () => {
                             <img
                                 src={logo}
                                 height="40"
-                                className="d-inline-block align-top"
+                                className="d-inline-block align-top "
                                 alt="Logo"
                             />
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" className="bg-white" />
                         <Navbar.Collapse id="basic-navbar-nav">
-                            <Nav className="me-auto">
+                            <Nav className="me-auto next-navbar">
                                 <Nav.Link href="#home" className="hoverr ">Home</Nav.Link>
                                 <Nav.Link href="#about" className=" hoverr ">About</Nav.Link>
                                 <Nav.Link href="#services" className="hoverr">Services</Nav.Link>
@@ -35,7 +35,7 @@ const Header = () => {
                                 />
                             </Navbar.Brand>
                            
-                            <Nav className="ms-auto">
+                            <Nav className="ms-auto next-navbar">
                                 <Nav.Link href="#blog" className="hoverr">Blog</Nav.Link>
                                 <Nav.Link href="#shop" className="hoverr">Shop</Nav.Link>
                                 <NavDropdown title={<span className="hoverr">Pages <i className="fa fa-caret-down"></i></span>} id="basic-nav-dropdown">

@@ -77,3 +77,18 @@
 
 
 }
+@media only screen and (max-width: 420px) {
+   .our-ser {
+    text-align: center;
+    padding-bottom: 30px;
+   }
+   .our-ser span {
+   font-size: 20px;
+   }
+   .our-ser h3{
+    font-size: 35px;
+   }
+   .our-ser p{
+    font-size: 20px;
+   }
+  }

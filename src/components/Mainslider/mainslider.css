@@ -44,4 +44,12 @@
         
         height: 100px;
     }
+    .center-caption {
+        font-size: 30px;
+        width: 100%;
+    }
+    .Button{
+        padding: 10px 25px;
+
+    }
   }

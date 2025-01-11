@@ -43,4 +43,13 @@
     text-align: center;
     padding-bottom: 30px;
    }
+   .lefttext span {
+    font-size: 15px;
   }
+  .lefttext h2 {
+    font-size: 35px;
+  }
+  .lefttext p {
+    font-size: 20px;
+  }
+}
