@@ -43,4 +43,20 @@
         text-align: center;
         width: 100%;
     }
+    .elementor-text span {
+        font-size: 20px;
+   }
+    .elementor-text h2 {
+         font-size: 35px;
+    }
+    .elementor-text p {
+        font-size: 15px;
+   }
+   .sizee {
+    font-size: 20px;
+   }
+   .icoon {
+    font-size: 10px;
+    
+   }
   }

@@ -8,6 +8,7 @@ import Products from "../Products/Products";
 import Elemantorbox from "../Elementorbox/Elemantorbox";
 import Form from "../../components/Form/Form"
 import Testimonials from "../../components/Testimonials/testimonials";
+import Footer from "../../components/Footer/Footer";
 
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
       <Elemantorbox/>
       <Form />
       <Testimonials />
+      <Footer />
       
 
       </div>

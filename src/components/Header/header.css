@@ -14,3 +14,27 @@
     color: #c36;
 }
 
+@media only screen and (max-width: 420px) {
+    .headerSection{
+        align-self: center;
+        
+        
+    }
+    .logo{
+        height: 0px;
+            
+    }
+    .navbar-brand{
+        padding-top: 0px;
+    }
+    .next-navbar {
+        background-color: #240429;
+        width: 50%;
+        margin-left: 50%;
+        padding: 10px;
+        top: 0;
+    }
+    
+    
+    
+  }

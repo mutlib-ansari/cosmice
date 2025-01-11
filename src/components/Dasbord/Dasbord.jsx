@@ -21,7 +21,7 @@ function Dasbord() {
                         <div className="bg">
                             <div className="slide2">
                                 <Carousel fade controls={false}>
-                                    <Carousel.Item>
+                                    <Carousel.Item className='carousel-item'>
                                         <img src={img1} />
                                         <Carousel.Caption>
                                         </Carousel.Caption>
@@ -43,7 +43,7 @@ function Dasbord() {
                     <div className="col-md-6">
                         <div className="content">
                             <span>Know About</span>
-                            <h1>discover everything yourself with astralVue</h1>
+                            <h1>Discover everything yourself with astralVue</h1>
                             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt.</p>
                             <Button className='Button'><IoIosStar /> Read more</Button>
                             <div className='iner-box' >
