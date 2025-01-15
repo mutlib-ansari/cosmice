@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Navbar, Nav, NavDropdown } from "react-bootstrap";
 import '../Header/header.css';
 
-import logo from '../../assets/images/navbar/logo.png';
+import logo from '../../assets/images/navbar/logo2.png';
 
 const Header = () => {
     return (
