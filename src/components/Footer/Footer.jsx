@@ -5,7 +5,7 @@ import { IoCallOutline } from "react-icons/io5";
 import { MdOutlineMail } from "react-icons/md";
 import { CiLocationOn } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
-import icon from '../../assets/images/navbar/logo.png'
+import logo from '../../assets/images/navbar/logo2.png'
 import { FaTwitter } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
@@ -52,7 +52,7 @@ const Footer = () => {
                     </div>
                     <div className="col-md-12 footer-copyright">
                         <ul className='copy'>
-                            <li><img src={icon} /></li>
+                            <li><img src={logo} /></li>
                             <li>
                                 Copyright © 2023 AstralVue By Evonicmedia. All Rights Reserved ...................................................... follow us</li>
                             <li className=''><a><FaFacebookF /> </a><a><FaTwitter /></a> <a ><FaInstagram /></a></li>
