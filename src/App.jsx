@@ -4,12 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 // import Header from "./components/Header/Header";
 import Header from "@/components/header/header";
 
-
-
-
-
-
-function App() {
+const App = () => {
   return (
     <>
     <Header/>
